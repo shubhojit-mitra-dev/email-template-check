@@ -2,7 +2,6 @@ export const WELCOME_EMAIL_TEMPLATE = (
   userName: string,
   fullName: string,
   email: string,
-
   location: string,
   profilePicture: string,
   skills: string,
